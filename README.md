@@ -43,3 +43,39 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone [https://github.com/yourusername/classmate.git](https://github.com/yourusername/classmate.git)
    cd classmate
+### Install frontend dependencies
+
+npm install
+
+### Set up your environment variables
+
+VITE_SUPABASE_URL=your_supabase_url
+VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+VITE_AI_API_KEY=your_ai_api_key
+
+### Run the development server
+
+npm run tauri dev
+
+🗺️ Roadmap
+[x] Initial UI/UX scaffolding
+
+[ ] Supabase Authentication & Onboarding flow
+
+[ ] Module Setup & Calendar generation
+
+[ ] Document uploading & Supabase Storage integration
+
+[ ] AI prompt engineering for test generation
+
+[ ] Gamification & Spotify API link
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
+
+***
+
+This perfectly sets the stage for anyone visiting your repo. It highlights the modern tech stack and shows off the sheer amount of logic you are building into this. 
+
+Would you like to start writing the Vanilla JS and Tailwind code for that sweet and cute onboarding screen while your Rust installation finishes up?
