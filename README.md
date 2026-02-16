@@ -73,9 +73,3 @@ npm run tauri dev
 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-
-***
-
-This perfectly sets the stage for anyone visiting your repo. It highlights the modern tech stack and shows off the sheer amount of logic you are building into this. 
-
-Would you like to start writing the Vanilla JS and Tailwind code for that sweet and cute onboarding screen while your Rust installation finishes up?
